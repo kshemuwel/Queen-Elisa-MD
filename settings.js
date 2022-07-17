@@ -50,15 +50,15 @@ global.alive =`Hello I'am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-
+global.sendwelcome = `add` 
 🌀 Thanks Fro using Queen Elisa bot
 ✾ Some bugs fixing
 😼♥️
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
-global.sendwelcome = `add`
+global.sendwelcome = ``
 // Good bye එක ඔනි නම් remove කියලා දාන්න
-global.sendgoodbye = `remove`
+global.sendgoodbye = ``
 // Caption 
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
 global.mess = {
