@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['254718241545'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['254718241545'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['254718241545'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Krakinz' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = 'Krakinz' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'KrakinzLab' // Sticker Autor name 
+global.owner = ['0'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['0'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['0'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'බෝලේ 🥰❤️' // Your name ඔබේ නම 
+global.botnma = 'බෝලේ 🥰❤️' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '.' //ownernama,ownername
+global.packname = 'බෝලේ 🥰❤️' // Sticker package name 
+global.author = 'බෝලේ 🥰❤️' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🖥'
@@ -50,7 +50,7 @@ global.alive =`Hello I'am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+
 🌀 Thanks Fro using Queen Elisa bot
 ✾ Some bugs fixing
 😼♥️
